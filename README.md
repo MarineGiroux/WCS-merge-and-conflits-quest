@@ -1,4 +1,4 @@
-LOCAL
+REMOTE
 
 # WCS-merge-and-conflits-quest
 
